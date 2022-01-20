@@ -12,7 +12,11 @@ E para a estilização eu utilizei esse vídeo do Online Tutorials ---> https://
 
 Muito interessante e a cada projeto feito aprendo mais um pouco e reforço o que ja sabia!
 
-Se quiser conferir o calendário funcionando, veja meu vídeo ---> 'https://youtu.be/buQwS4c2YAU'
+Se quiser conferir o calendário funcionando, veja meu vídeo ---> https://youtu.be/buQwS4c2YAU
+
+
+![WhatsApp Image 2022-01-20 at 20 24 29](https://user-images.githubusercontent.com/74380091/150438873-5a0802e2-a76d-406b-b3cc-62e179c53ee0.jpeg)
+
 
 
 
